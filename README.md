@@ -1,1 +1,1 @@
-# CombinationsAlgorithm
+# Combinations Algorithm
